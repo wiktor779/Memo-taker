@@ -14,3 +14,7 @@ Change example code to [source.scala](https://github.com/wiktor779/Memo-taker/bl
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java integrated development environment for developing computer software
 * [ScalaFX](http://www.scalafx.org/) - UI DSL written within the Scala Language that sits on top of JavaFX 2 and JavaFX 8
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/wiktor779/Memo-taker/blob/master/LICENSE) file for details
