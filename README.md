@@ -7,8 +7,8 @@ This application allows you to create and organize tasks. Each task has title, d
 
 ## Getting Started
 
-Create new app using this [guide](http://www.scalafx.org/docs/quickstart/).
-Change example code to [source.scala](https://github.com/wiktor779/Memo-taker/blob/master/source.scala).
+* Create new app using this [guide](http://www.scalafx.org/docs/quickstart/).
+* Change example code to [source.scala](https://github.com/wiktor779/Memo-taker/blob/master/source.scala).
 
 ## Built With
 
